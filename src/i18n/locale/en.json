@@ -1,0 +1,33 @@
+{
+    "locale": {
+        "en": "english",
+        "fa": "farsi"
+    },
+    "nav": {
+        "dashboard": "Dashboard",
+        "todo": "Todo",
+        "weather": "Weather",
+        "profile": "Profile"
+    },
+    "Main": {
+        "title": "App Bar"
+    },
+    "Dashboard": {
+        "goodmorning": "Good Morning"
+    },
+    "Todo": {
+        "add": "Add",
+        "list": "todo list"
+    },
+    "Weather": {
+        "error": "An error occured, please try again",
+        "search": "search"
+    },
+    "Profile": {
+        "darkTheme": "Dark Theme",
+        "language": "language",
+        "save": "save",
+        "enter":"enter",
+        "logout": "Logout"
+    }
+}

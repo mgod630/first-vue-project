@@ -1,0 +1,33 @@
+{
+    "locale": {
+        "en": "انگلیسی",
+        "fa": "فارسی"
+    },
+    "nav": {
+        "dashboard": "داشبورد",
+        "todo": "وظایف",
+        "weather": "هوا",
+        "profile": "پروفایل"
+    },
+    "Main": {
+        "title": "اپلیکیشن"
+    },
+    "Dashboard": {
+        "goodmorning": "صبح بخیر"
+    },
+    "Todo": {
+        "add": "ثبت",
+        "list": "لیست وظایف"
+    },
+    "Weather": {
+        "error": "خطایی رخ داده است، لطفا دوباره تلاش کنید",
+        "search": "جستجو"
+    },
+    "Profile": {
+        "darkTheme": "تم تاریک",
+        "language": "تغییر زبان",
+        "save": "ذخیره",
+        "enter": "ورود",
+        "logout": "خروج"
+    }
+}
