@@ -2,7 +2,6 @@
 import { RouterLink, RouterView } from "vue-router";
 import { useUserStore } from "./stores/user";
 import { ref, onMounted } from "vue";
-import Button from "./components/Button.vue";
 
 const stores = useUserStore();
 const enterUsername = ref<string>("");
